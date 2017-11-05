@@ -1,0 +1,17 @@
+:root {
+  --color1: red;
+  --color2: blue;
+
+
+@media screen and (min-width: 500px) and (max-width: 600px) {
+  --color1: green;
+}
+
+@media screen and (min-width: 1200px) {
+  --color1: yellow;
+}
+
+@media screen and (min-width: 1300px) {
+  --color1: aqua;
+}
+}

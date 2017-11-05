@@ -1,0 +1,11 @@
+@import "variables.css";
+@import "components/components.css";
+
+div {
+  color: var(--color1);
+
+  span {
+    color: currentColor;
+  }
+}
+

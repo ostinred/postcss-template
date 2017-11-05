@@ -1,0 +1,2 @@
+:root{--color1:red;--color2:blue}@media screen and (min-width:500px) and (max-width:600px){:root{--color1:green}}@media screen and (min-width:1200px){:root{--color1:#ff0}}@media screen and (min-width:1300px){:root{--color1:aqua}}div{color:var(--color1)}div span{color:currentColor}
+/*# sourceMappingURL=styles.css.map */
